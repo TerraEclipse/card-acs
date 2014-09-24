@@ -1,0 +1,73 @@
+{
+  "title": "ACS Card",
+  "description": "I'm making strides against breast cancer",
+  "typekit": "true",
+  "sizes": {
+    "twitter": {
+      "width": 800,
+      "height": 400,
+      "default": true
+    }
+  },
+  "styles": [
+    "./styles.css"
+  ],
+  "variables": {
+    "first": "Your",
+    "last": "Name",
+    "city": "Your",
+    "state": "Hometown",
+    "state_full": "Your Hometown",
+    "avatar": "./images/avatar.png"
+  },
+  "variants": {
+    "antelope_valley": {
+      "variables": {
+        "location": "Antelope Valley, CA",
+        "date": "October 18th, 2014"
+      }
+    },
+    "los_angeles": {
+      "variables": {
+        "location": "Los Angeles, CA",
+        "date": "October 18th, 2014"
+      }
+    },
+    "sacramento": {
+      "variables": {
+        "location": "Sacramento, CA",
+        "date": "October 19th, 2014"
+      }
+    },
+    "san_diego": {
+      "variables": {
+        "location": "San Diego, CA",
+        "date": "October 19th, 2014"
+      }
+    },
+    "san_fransisco": {
+      "variables": {
+        "location": "San Fransisco, CA",
+        "date": "October 19th, 2014"
+      }
+    },
+    "san_jose": {
+      "variables": {
+        "location": "San Jose, CA",
+        "date": "October 25th, 2014"
+      }
+    },
+    "san_luis_obisbo": {
+      "variables": {
+        "location": "San Luis Obisbo, CA",
+        "date": "October 25th, 2014"
+      }
+    },
+    "santa_monica": {
+      "variables": {
+        "location": "Santa Monica, CA",
+        "date": "October 25th, 2014"
+      }
+    }
+  }
+}
