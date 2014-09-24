@@ -5,3 +5,22 @@ body {
   background: url(./images/card.jpg) top left no-repeat;
   color: white;
 }
+
+.content {
+  position: relative;
+  width: 100%;
+  height: 60%;
+  margin-top: 20%;
+}
+
+.date-city {
+  width: 100%;
+  height: 20%;
+}
+
+.signature {
+  width: 75%;
+  height: 65%;
+  margin: auto;
+  text-align: center;
+}
