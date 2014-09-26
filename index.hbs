@@ -12,10 +12,22 @@
           <div class="location">{{location}}</div>
         </div>
         <div class="user-info">
-          <div class="avatar"></div>
+          <div class="avatar">
+              <span class="avatar-image" style="background-image: url({{{avatar}}});"></span>
+          </div>
           <div class="signature">
-            <div class="name"></div>
-            <div class="city"></div>
+            <div class="name">{{first}} {{last}}</div>
+            <div class="city">
+              {{{city}}}
+              {{#if city}}
+                {{#if state}} , {{/if}}
+              {{/if}}
+              {{#if city}}
+                {{state}}
+              {{else}}
+                {{state_full}}
+              {{/if}}
+            </div>
           </div>
         </div>
       </div>

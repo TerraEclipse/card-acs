@@ -58,7 +58,6 @@
       }
     },
     "san_luis_obisbo": {
-      "default": "true",
       "variables": {
         "location": "San Luis Obisbo, CA",
         "date": "October 25th, 2014"
