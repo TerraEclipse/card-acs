@@ -24,7 +24,7 @@ body {
   width: 230px;
   left: 100px;
   text-align: center;
-  font-family: "felt-tip-woman", Arial;
+  font-family: "felt-tip-woman", cursive;
   font-weight: 400;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -38,7 +38,7 @@ body {
   width: 350px;
   left: 180px;
   text-align: center;
-  font-family: "felt-tip-woman", Arial;
+  font-family: "felt-tip-woman", cursive;
   font-weight: 400;
   top: 50%;
   -webkit-transform: translateY(-50%);
