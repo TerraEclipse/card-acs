@@ -77,6 +77,8 @@ body {
   margin-top: 35px;
   text-align: left;
   text-transform: uppercase;
+  font-family: "gesta", Sans-serif;
+  font-weight: 700;
 }
 
 .city {
@@ -84,4 +86,6 @@ body {
   height: 25%;
   text-align: left;
   text-transform: uppercase;
+  font-family: "gesta", Sans-serif;
+  font-weight: 400;
 }
