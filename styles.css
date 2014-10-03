@@ -74,7 +74,7 @@ body {
   height: 100%;
   background-size: cover;
   background-position: center center;
-  z-index: 1;
+  z-index: 10;
 }
 
 .avatar-image {
