@@ -14,7 +14,7 @@
         </div>
         <div class="user-info">
           <div class="avatar">
-            <span class="avatar-image" style="background-image: url({{{avatar}}}), url(./images/avatar.png);"></span>
+            <span class="avatar-image" style="background-image: {{#if avatar}}url({{{avatar}}}){{else}}url(./images/avatar.png){{/if}};"></span>
           </div>
           <div class="signature">
             <div class="name">{{first}} {{last}}</div>
