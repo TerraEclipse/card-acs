@@ -18,7 +18,8 @@ body {
 .date {
   position: relative;
   background-image: url(./images/small-banner.png);
-  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
   background-position: center center;
   float: left;
   width: 167px;
@@ -37,7 +38,8 @@ body {
 .location {
   position: relative;
   background-image: url(./images/big-banner.png);
-  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
   background-position: center center;
   float: left;
   width: 458px;
