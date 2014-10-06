@@ -24,49 +24,57 @@
     "antelope_valley": {
       "variables": {
         "location": "Antelope Valley, CA",
-        "date": "10/18/14"
+        "date": "10/18/14",
+        "image:" "antelope_valley.jpg"
       }
     },
     "los_angeles": {
       "variables": {
         "location": "Los Angeles, CA",
-        "date": "10/18/14"
+        "date": "10/18/14",
+        "image:" "los_angeles.jpg"
       }
     },
     "sacramento": {
       "variables": {
         "location": "Sacramento, CA",
-        "date": "10/19/14"
+        "date": "10/19/14",
+        "image:" "sacramento.jpg"
       }
     },
     "san_diego": {
       "variables": {
         "location": "San Diego, CA",
-        "date": "10/19/14"
+        "date": "10/19/14",
+        "image:" "san_diego.jpg"
       }
     },
     "san_francisco": {
       "variables": {
         "location": "San Francisco, CA",
-        "date": "10/19/14"
+        "date": "10/19/14",
+        "image:" "san_francisco.jpg"
       }
     },
     "san_jose": {
       "variables": {
         "location": "San Jose, CA",
-        "date": "10/25/14"
+        "date": "10/25/14",
+        "image:" "san_jose.jpg"
       }
     },
     "san_luis_obispo": {
       "variables": {
         "location": "San Luis Obispo, CA",
-        "date": "10/25/14"
+        "date": "10/25/14",
+        "image:" "san_luis_obispo.jpg"
       }
     },
     "santa_monica": {
       "variables": {
         "location": "Santa Monica, CA",
-        "date": "10/25/14"
+        "date": "10/25/14",
+        "image:" "santa_monica.jpg"
       }
     }
   }
