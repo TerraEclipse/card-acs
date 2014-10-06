@@ -6,22 +6,22 @@ body {
   color: white;
 }
 .content {
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 240px;
-  margin-top: 160px;
+  margin-top: 153px;
 }
 .date-location {
   width: 100%;
-  height: 25%;
+  height: 62px;
   margin-bottom: 10px;
 }
 .date {
   position: relative;
   float: left;
-  width: 165px;
-  height: 43px;
-  left: 95px;
+  width: 147px;
+  height: 39px;
+  left: 105px;
   text-align: center;
   font-family: "felt-tip-woman";
   font-weight: 400;
@@ -30,36 +30,36 @@ body {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);*/
-  transform: rotate(-3deg);
+  transform: rotate(-3.6deg);
 }
 .location {
   position: relative;
   float: left;
-  width: 450px;
-  height: 60px;
-  left: 170px;
+  width: 430px;
+  height: 57px;
+  left: 205px;
   text-align: center;
   font-family: "felt-tip-woman";
   font-weight: 400;
   font-size: 30px;
-  margin-top: 10px;
+  margin-top: 7px;
 /*  top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);*/
-  transform: rotate(3deg);
+  transform: rotate(2.7deg);
   z-index: 10;
 }
 .user-info {
   width: 75%;
-  height: 65%;
+  height: 60%;
   text-align: center;
 }
 .avatar {
   float: left;
-  width: 145px;
-  height: 145px;
-  margin-left: 85px;
+  width: 120px;
+  height: 120px;
+  margin-left: 13px;
   border: 4px solid rgb(255, 255, 255);
   border-radius: 50%;
   background-color: #00aea1;
