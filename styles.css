@@ -63,7 +63,7 @@ body {
   display: inline-block;
   width: 380px;
   height: 150px;
-  text-align: center;
+  transform: translateY(-10px);
 }
 .avatar {
   float: left;
