@@ -47,7 +47,7 @@
     },
     "san_francisco": {
       "variables": {
-        "location": "San Fransisco, CA",
+        "location": "San Francisco, CA",
         "date": "10/19/14"
       }
     },
@@ -59,7 +59,7 @@
     },
     "san_luis_obispo": {
       "variables": {
-        "location": "San Luis Obisbo, CA",
+        "location": "San Luis Obispo, CA",
         "date": "10/25/14"
       }
     },
