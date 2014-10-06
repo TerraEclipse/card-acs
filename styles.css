@@ -29,11 +29,11 @@ body {
   font-family: "felt-tip-woman";
   font-weight: 400;
   font-size: 30px;
-/*  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);*/
   transform: rotate(-3.7deg);
+}
+.date span {
+  position: relative;
+  top: 20%;
 }
 .location {
   position: relative;
@@ -50,12 +50,12 @@ body {
   font-weight: 400;
   font-size: 30px;
   margin-top: 6px;
-/*  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);*/
   transform: rotate(2.7deg);
   z-index: 10;
+}
+.location span {
+  position: relative;;
+  top: 25%;
 }
 .user-info {
   position: relative;
