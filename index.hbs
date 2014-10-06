@@ -17,9 +17,11 @@
           </div>
         </div>
         <div class="user-info">
-          <div class="avatar">
-            <span class="avatar-image" style="background-image: {{#if avatar}}url({{{avatar}}}){{else}}url(./images/avatar.png){{/if}};"></span>
-          </div>
+          {{#if avatar}}
+            <div class="avatar">
+              <span class="avatar-image" style="background-image: url({{{avatar}}})"></span>
+            </div>
+          {{/if}}
           <div class="signature">
             <div class="name">{{first}} {{last}}</div>
             <div class="city">
