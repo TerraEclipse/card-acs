@@ -14,7 +14,6 @@ body {
 .date-location {
   width: 100%;
   height: 62px;
-  margin-bottom: 10px;
 }
 .date {
   position: relative;
@@ -51,7 +50,7 @@ body {
   z-index: 10;
 }
 .user-info {
-  width: 75%;
+  width: 380px;
   height: 60%;
   text-align: center;
 }
@@ -76,14 +75,14 @@ body {
 }
 .signature {
   float: left;
-  width: 340px;
-  height: 100%;
+  width: 225px;
+  height: 130px;
   margin-left: 13px;
 }
 .name {
   width: 100%;
   height: 22%;
-  margin-top: 50px;
+  margin-top: 35px;
   text-align: left;
   text-transform: uppercase;
   font-family: "PT Sans Narrow", sans-serif;
