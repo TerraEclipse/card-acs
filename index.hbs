@@ -37,15 +37,7 @@
             </div>
           </div>
         </div>
-        <div class="location-image" style="background-image: url({{#if variants}}{{{image}}}{{ese}}./images/placeholder_city.jpg{{/if}})"></div>
+        <div class="location-image" style="background-image: url({{#if variants}}{{{image}}}{{else}}./images/placeholder_city.jpg{{/if}})"></div>
       </div>
     </body>
   </html>
-
-
-    font-size: 50vmin;
-  position: absolute;
-  top: 50%;
-  margin-top: -2.5vmin;
-  width: 100%;
-}
