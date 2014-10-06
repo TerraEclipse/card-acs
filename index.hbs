@@ -10,10 +10,10 @@
       <div class="content">
         <div class="date-location">
           <div class="date">
-            <span>{{date}}</span>
+            <span>{{#if variants}}{{date}}{{else}} 10/25/14 {{/if}}</span>
           </div>
           <div class="location">
-            <span>{{location}}</span>
+            <span>{{#if variants}}{{location}}{{else}} Your City {{/if}}</span>
           </div>
         </div>
         <div class="user-info">
